@@ -1,0 +1,3 @@
+- Hi, I’m drplague
+- im intrested in making a few video games
+- im learning Java and C#
