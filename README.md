@@ -4,7 +4,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamenG0D&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - Hi, I’m RamenG0D
-- im interested I low low level programming not hardware but low enough that you have to create things yourself and understand your code well
-- I'm currently work on creating a lexer and parser from scratch in c (not on github yet)
+- im recently addicted to rust
+- i enjoy low level programming
+- I'm almost always working on a new project.
 
-I'm almost always working on a project, I think the next one might be to learn how to implement true 3D graphics myself, but I might just choose to do something else.
+Ever since i started using C for many of my projects i loved how simplistic the syntax is but always disliked bugs caused by bad programming. So i started using rust, but i disliked the general syntax so my next project is to smash the syntax of C into Rusts saftey and features (with a transpiler).
